@@ -1,7 +1,7 @@
 const Promise = require('bluebird')
 const path = require('path')
 
-const x = 2
+const x = 3
 
 exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions
